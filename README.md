@@ -1,2 +1,1 @@
-# smart-study-buddy
-AI-powered lecture notes, flashcards, quizzes and smart revision using Gemini API.
+Smart Study Buddy is an AI-powered learning assistant that transforms lecture transcripts into structured chapter-wise notes, interactive flashcards, and quizzes using Google's Gemini API. It helps students understand concepts, test their knowledge, identify weak topics, and improve learning through personalized revision schedules based on spaced repetition. Built with Python, Streamlit, SQLite, and Gemini API.
